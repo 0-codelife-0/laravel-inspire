@@ -1,0 +1,17 @@
+{
+    "name": "fhsinchy/inspire",
+    "description": "Inspire package",
+    "autoload": {
+        "psr-4": {
+            "Fhsinchy\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jexter Tomas"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
